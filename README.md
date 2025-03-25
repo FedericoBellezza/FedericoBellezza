@@ -1,5 +1,3 @@
-## Hello World! 👋
-
 ![Logo](https://media.licdn.com/dms/image/v2/D5616AQG2F4Exh7hgkQ/profile-displaybackgroundimage-shrink_350_1400/B56ZT0lK3KHEAY-/0/1739270172732?e=1748476800&v=beta&t=LqH8kX5PUaHiUb770G6khPDeeDdmfpVe59NSVit9iBQ)
 
 <!--
